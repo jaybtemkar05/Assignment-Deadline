@@ -4,7 +4,7 @@
 
 A magical, fully offline productivity workspace for students — semester planning, assignments, attendance, GPA, notes, a Pomodoro timer, and weekly analytics, all in one app with zero backend and zero API keys.
 
-Built for the **InventaCore AI Intern Build Challenge 2026 — Track 4: Education**.
+Built for the **CODE FORGE 2026,BNCOE — Track 2: Education**.
 
 ---
 
