@@ -105,4 +105,4 @@ This project was planned and built with the help of an AI assistant (Claude) for
 - Per-assignment weighted GPA calculation
 
 ## Team & Contributions 
-BY The MF Decoders
+BY The Team Mindforged (MF) Decoders
