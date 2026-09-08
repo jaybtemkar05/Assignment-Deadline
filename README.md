@@ -104,8 +104,5 @@ This project was planned and built with the help of an AI assistant (Claude) for
 - Calendar (Google Calendar) integration
 - Per-assignment weighted GPA calculation
 
-## Team & Contributions
-
-- **Sumra Ahsan** — Team Leader / Solo Participant — full-stack build: architecture, all React components and pages, state management, persistence layer, testing, and documentation.
-
-*Email: sumraahsan001@gmail.com*
+## Team & Contributions 
+BY The MF Decoders
